@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [web-app-voice-react](https://github.com/WilliamJasso/web-app-voice-react)
 
-- 🌱 I’m currently learning **React**
+- 💡 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [in my GitHub Pages]
 
