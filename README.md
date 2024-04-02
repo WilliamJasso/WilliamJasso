@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [in my GitHub Pages](in my GitHub Pages)
+- 👨‍💻 All of my projects are available at [in my GitHub Pages]
 
 - 📫 How to reach me **willijasso1@gmail.com**
 
