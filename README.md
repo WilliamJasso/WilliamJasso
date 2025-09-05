@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm William Jasso</h1>
-<h3 align="center">IT engineering student focused on front end development</h3>
+<h3 align="center">IT engineering focused on front end development</h3>
 
 - 🔭 I’m currently working on [web-app-voice-react](https://github.com/WilliamJasso/web-app-voice-react)
 
